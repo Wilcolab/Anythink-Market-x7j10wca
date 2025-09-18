@@ -64,6 +64,8 @@
  * @see {@link toCamelCase} for camelCase conversion
  * @since 1.0.0
  */
+
+/**
  * Converts a string to camelCase format
  * @param {string} str - The input string to convert
  * @returns {string} The string converted to camelCase
